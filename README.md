@@ -1,1 +1,2 @@
 # Task-10
+This task is to create a Python program named bank_account.py that demonstrates object-oriented programming concepts like classes, constructors, attributes, and methods. It should use encapsulation to protect sensitive data like balance, inheritance to create different account types, and method overriding to apply different rules for withdrawals. The program should create multiple account objects and simulate real banking operations such as deposit, withdrawal, transfer, and viewing account details.
